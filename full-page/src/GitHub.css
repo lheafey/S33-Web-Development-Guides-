@@ -1,0 +1,59 @@
+.github-container {
+    margin: 20px;
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    color: blue;
+  }
+  
+  .github-container h1 {
+    color: gray;
+  }
+  
+  .github-container p {
+    margin-bottom: 10px;
+  }
+  
+  .github-container ul {
+    list-style-type: circle;
+    margin-left: 20px;
+    padding-left: 0;
+  }
+  
+  .github-container li {
+    margin-bottom: 5px;
+  }
+  
+  .github-container a {
+    color: lightblue;
+    text-decoration: none;
+    padding: 5px 10px;
+    border: 1px solid dodgerblue;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  .github-container a:hover {
+    background-color: dodgerblue;
+    color: white;
+  }
+  
+  .learn-more-btn {
+    color: gray;
+    background-color: transparent;
+    border: 2px solid blue;
+    border-radius: 5px;
+    padding: 5px 15px;
+    cursor: pointer;
+    outline: none;
+  }
+  
+  .learn-more-btn:hover {
+    background-color: blue;
+    color: white;
+  }
+  
+  .details-section {
+    margin-top: 20px;
+  }
+  
