@@ -1,0 +1,37 @@
+.descriptionCss {
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .descriptionCss h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .descriptionCss p {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+  .descriptionCss pre {
+    background-color: #f4f4f4;
+    padding: 10px;
+    border-radius: 5px;
+    overflow-x: auto;
+  }
+  
+  .toggleButton {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 20px;
+  }
+  
+  .toggleButton:hover {
+    background-color: #45a049;
+  }
