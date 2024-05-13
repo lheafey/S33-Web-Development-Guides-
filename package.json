@@ -1,8 +1,9 @@
 {
   "name": "S33-Web-Development-Guides-",
-  "packageManager": "yarn@1.22.22",
+  "packageManager": "yarn@4.2.2",
   "dependencies": {
     "bootstrap": "^5.3.3",
-    "react-bootstrap": "^2.10.2"
+    "react-bootstrap": "^2.10.2",
+    "start": "^5.1.0"
   }
 }
