@@ -1,0 +1,22 @@
+.terminal-container {
+    margin: 20px;
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    color: black;
+    padding: 10px;
+  }
+
+  .terminal-container h1 {
+    color: gray;
+    margin-bottom: 30px;
+  }
+  .text {
+    border: 2px solid black;
+    margin-bottom: 20px;
+  }
+  
+  .terminal-container p {
+    display: flex;
+    flex-direction: row;
+  }
