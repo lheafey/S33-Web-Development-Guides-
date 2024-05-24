@@ -94,7 +94,7 @@ function HTML() {
             </main>
         </div>
         )}
-        <button className="toggleButton" onClick={toggleShowMore}>
+        <button className="toggleButton" onClick={openUp}>
         {showMore ? 'Hide Example' : 'Show Example'}
       </button>
     </div>

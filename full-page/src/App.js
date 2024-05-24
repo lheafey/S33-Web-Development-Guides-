@@ -12,7 +12,8 @@ function App() {
       <GitHub />
       <h1>CSS Information</h1>
       <DescriptionCss />
-
+      <h1>HTML Information</h1>
+      <HTML/>
       <h1>React Information</h1>
       <ReactExp />
       <h1>Terminal Information</h1>
